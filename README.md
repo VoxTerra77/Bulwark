@@ -6,7 +6,7 @@ Bulwark Cryptocurrency
 =====
 
 Bulwark (BWK) is a privacy oriented digital currency with Masternodes implemented.
-Bulwark offers both SwiftTX and Obfuscation to enable speedy transactions with a Seesaw Staking / Masternode reward balancing mechanism to promote strong network security after the Proof of Work phase
+Bulwark offers both SwiftTX and Obfuscation to enable speedy transactions with a 65%/35% split between Masternode and Staking rewards to promote strong network security after the Proof of Work phase.
 
 ## Specifications
 
@@ -26,7 +26,7 @@ Bulwark offers both SwiftTX and Obfuscation to enable speedy transactions with a
 | PoW Period            | nHeight ≤ 182,700                       |
 | PoS Period            | nHeight ≥ 182,701                       |
 | Protocol Support      | IPV4, IPV6, TOR                         |
-| PoS                   | SeeSaw & Split Rewards                  |
+| PoS                   | 65%/35%-60%/30%/10%                  |
 
 ## PoW Block Reward
 
